@@ -2,9 +2,14 @@
 
 This is final project of basic circuit theory lecture.  
 
+## Infos  
 - Program : Kicad(PCB design), LTspice(initial circuit)  
 - Restrictions  
   - PCB size : less than or equal to 10cm X 10cm  
   - PCB layer : not more than 2 layer  
   - Input : wave generator, 5V USB (type free)  
   - Available elements : almost every **analog** devices (e.g. Logic gates are not allowed)  
+
+## Result  
+-schematic  
+![schematic](https://user-images.githubusercontent.com/26185179/100888190-2fe57500-34f9-11eb-85db-592e53a0033d.png)
