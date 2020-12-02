@@ -1,6 +1,6 @@
 # Basic Circuit Theory Final Project : One Palm Circuit(OPC) Project
 
-This is final project of basic circuit theory lecture.  
+This is final project of SNUEE basic circuit theory lecture (430.213A).  
 
 ## Infos  
 - Program : Kicad(PCB design), LTspice(initial circuit)  
