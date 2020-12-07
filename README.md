@@ -2,6 +2,9 @@
 
 This is final project of SNUEE basic circuit theory lecture (430.213A).  
 
+## Objective
+Analog signal amplifier
+
 ## Infos  
 - Program : Kicad(PCB design), LTspice(initial circuit)  
 - Restrictions  
@@ -11,5 +14,7 @@ This is final project of SNUEE basic circuit theory lecture (430.213A).
   - Available elements : almost every **analog** devices (e.g. Logic gates are not allowed)  
 
 ## Result  
--schematic  
+-whole schematic  
 ![schematic](https://user-images.githubusercontent.com/26185179/100888190-2fe57500-34f9-11eb-85db-592e53a0033d.png)
+  
+Consists of 3 parts : 5V -> 12V DC converter, voltage invertor, signal amplifier
