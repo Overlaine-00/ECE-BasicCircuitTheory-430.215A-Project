@@ -1,4 +1,4 @@
-# Basic Circuit Theory Final Project : One Palm Circuit(OPC) Project
+# Final Project : One Palm Circuit(OPC) Project
 
 This is final project of SNUEE basic circuit theory lecture (430.213A).  
 
